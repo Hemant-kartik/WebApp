@@ -3,10 +3,12 @@
     public class Currency
     {
         public int Id { get; set; } // Primary Key
-        public int Rupees { get; set; }
-        public int Dollar { get; set; }
-        public int Euro { get; set; }
 
-        public required ICollection<Book> Books { get; set; }
+        public string Title { get; set; } = string.Empty;
+
+        public string Description { get; set; } = string.Empty;
+
+        // Navigation property
+        public ICollection<Book> Books { get; set; } = new List<Book>();
     }
 }
