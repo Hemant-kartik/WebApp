@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "E:\\DotNET\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\data\\dbapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +19,24 @@
       "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|e:\\dotnet\\webapp\\webapp\\migrations\\20250802114518_updatedtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785FFB82-CFE3-4BCB-B59E-56671BBC6258}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\20250802114518_updatedtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,31 +78,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250802114518_updatedtype.cs",
-              "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\Migrations\\20250802114518_updatedtype.cs",
-              "RelativeDocumentMoniker": "WebApp\\Migrations\\20250802114518_updatedtype.cs",
-              "ToolTip": "E:\\DotNET\\WebApp\\WebApp\\Migrations\\20250802114518_updatedtype.cs",
-              "RelativeToolTip": "WebApp\\Migrations\\20250802114518_updatedtype.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T11:45:22.076Z"
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "E:\\DotNET\\WebApp\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T07:00:49.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "WebApp.csproj",
+              "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
+              "ToolTip": "E:\\DotNET\\WebApp\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp\\WebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T06:54:52.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\Program.cs",
               "RelativeDocumentMoniker": "WebApp\\Program.cs",
               "ToolTip": "E:\\DotNET\\WebApp\\WebApp\\Program.cs",
               "RelativeToolTip": "WebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAABAZmZmZmYkwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T11:25:20.449Z"
+              "WhenOpened": "2025-08-04T10:36:18.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CurrencyController.cs",
+              "ToolTip": "E:\\DotNET\\WebApp\\WebApp\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAAsAAABgZmZmZmY4wA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T08:39:01.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Currency.cs",
               "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\Data\\Currency.cs",
               "RelativeDocumentMoniker": "WebApp\\Data\\Currency.cs",
@@ -102,11 +136,11 @@
               "RelativeToolTip": "WebApp\\Data\\Currency.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T08:39:37.29Z"
+              "WhenOpened": "2025-08-04T08:33:31.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "BookPrice.cs",
               "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\Data\\BookPrice.cs",
               "RelativeDocumentMoniker": "WebApp\\Data\\BookPrice.cs",
@@ -114,44 +148,43 @@
               "RelativeToolTip": "WebApp\\Data\\BookPrice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T08:38:05.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T08:38:05.209Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\Data\\Book.cs",
-              "RelativeDocumentMoniker": "WebApp\\Data\\Book.cs",
-              "ToolTip": "E:\\DotNET\\WebApp\\WebApp\\Data\\Book.cs",
-              "RelativeToolTip": "WebApp\\Data\\Book.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA0wB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T06:17:39.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Language.cs",
-              "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\Data\\Language.cs",
-              "RelativeDocumentMoniker": "WebApp\\Data\\Language.cs",
-              "ToolTip": "E:\\DotNET\\WebApp\\WebApp\\Data\\Language.cs",
-              "RelativeToolTip": "WebApp\\Data\\Language.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T06:15:41.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "DBApp.cs",
               "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\Data\\DBApp.cs",
               "RelativeDocumentMoniker": "WebApp\\Data\\DBApp.cs",
               "ToolTip": "E:\\DotNET\\WebApp\\WebApp\\Data\\DBApp.cs",
               "RelativeToolTip": "WebApp\\Data\\DBApp.cs",
-              "ViewState": "AgIAAA8AAADAzMzMzMwswBgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAABAMzMzMzMhwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T11:33:39.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "WebApp\\Data\\Book.cs",
+              "ToolTip": "E:\\DotNET\\WebApp\\WebApp\\Data\\Book.cs",
+              "RelativeToolTip": "WebApp\\Data\\Book.cs",
+              "ViewState": "AgIAAAcAAAAAzczMzMwuwAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:17:39.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Language.cs",
+              "DocumentMoniker": "E:\\DotNET\\WebApp\\WebApp\\Data\\Language.cs",
+              "RelativeDocumentMoniker": "WebApp\\Data\\Language.cs",
+              "ToolTip": "E:\\DotNET\\WebApp\\WebApp\\Data\\Language.cs",
+              "RelativeToolTip": "WebApp\\Data\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:15:41.571Z"
             }
           ]
         }

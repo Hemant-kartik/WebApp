@@ -18,7 +18,15 @@ namespace WebApp.Data
                 new Currency { Id = 2, Title = "Dollar", Description = "US Dollar" },
                 new Currency { Id = 3, Title = "Euro", Description = "Euro" },
                 new Currency { Id = 4, Title = "Dinar", Description = "Dinar" }
-            );
+                );
+
+            modelBuilder.Entity<Language>().HasData(
+                new Language { Id = 1, Title = "Hindi", Titel = "Hindi", Description = "Hindi", Books = new List<Book>() },
+                new Language { Id = 2, Title = "Tamil", Titel = "Tamil", Description = "Tamil", Books = new List<Book>() },
+                new Language { Id = 3, Title = "Punjabi", Titel = "Punjabi", Description = "Punjabi", Books = new List<Book>() },
+                new Language { Id = 4, Title = "Urdu", Titel = "Urdu", Description = "Urdu", Books = new List<Book>() }
+);
+
         }
 
         // DbSets for your models

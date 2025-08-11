@@ -154,9 +154,43 @@ namespace WebApp.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.HasKey("Id");
 
                     b.ToTable("Languages");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "Hindi",
+                            Titel = "Hindi",
+                            Title = "Hindi"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "Tamil",
+                            Titel = "Tamil",
+                            Title = "Tamil"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "Punjabi",
+                            Titel = "Punjabi",
+                            Title = "Punjabi"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Description = "Urdu",
+                            Titel = "Urdu",
+                            Title = "Urdu"
+                        });
                 });
 
             modelBuilder.Entity("WebApp.Data.Book", b =>
